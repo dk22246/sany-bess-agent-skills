@@ -1,0 +1,37 @@
+{
+  "formatVersion": 1,
+  "release": "V10.3",
+  "kind": "Public workflow instructions only",
+  "skills": [
+    {
+      "name": "project-onboarding",
+      "file": "skills/project-onboarding/SKILL.md",
+      "sourceSHA256": "6cbfe8bd87312370c84e20058513f82b41c4baeb72288aa94a78a01ae7ddac09",
+      "sha256": "41f4e555073369261a5ba267e7bb81506ddf7599df3f6e053deb76fe36840b27"
+    },
+    {
+      "name": "bess-electrical-audit",
+      "file": "skills/bess-electrical-audit/SKILL.md",
+      "sourceSHA256": "554743ac1a2c6917c11d4e0d810182247716f953863d2a3e6678bdd0f9e1595d",
+      "sha256": "d3fca1332e2d76372a50e24b4910aa2984f9c74837e4cc62b56aa3ef63b19ebe"
+    },
+    {
+      "name": "layout-ga-validation",
+      "file": "skills/layout-ga-validation/SKILL.md",
+      "sourceSHA256": "ae80450d86ccdf59717c11b367a3d90f9bc725a1704b0d4bd7d33d5589b71de1",
+      "sha256": "16ec48eea198eeae30b87799ebe020944a26c1fc4846ec8490e5512ab56c02a2"
+    },
+    {
+      "name": "environment-blender",
+      "file": "skills/environment-blender/SKILL.md",
+      "sourceSHA256": "c387b0e60f11ee9f210ac0e35d62e93f91fb15c45fe2e1c4e121dd0b41f363d9",
+      "sha256": "0980f37c7acdd69f40288ac6d1596e75b8ec54b766050456da7a31b1f8d18aba"
+    },
+    {
+      "name": "regression-handoff",
+      "file": "skills/regression-handoff/SKILL.md",
+      "sourceSHA256": "bbd6beb8714d75daa18ceebbe56ac8eafb4b71913f497f7bc9d171407a87fbca",
+      "sha256": "cb57895be5b5ec3209287a9e93e3a0a5dca62ac4af365acf30657e225f021eb0"
+    }
+  ]
+}
